@@ -4,3 +4,4 @@ run
 go ahead
 use -a
 use reset
+use push and pull

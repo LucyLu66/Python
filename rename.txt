@@ -3,3 +3,4 @@ one by one
 run
 go ahead
 use -a
+use reset
